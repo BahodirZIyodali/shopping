@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-nav a{
+    font-size: 18px;
+}
+img{
+    display: sticky;
+    background-size: cover;
+}
+.placeholderCard{
+    width: 250px;
+    height: 400px;
+}
