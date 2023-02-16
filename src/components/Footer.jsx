@@ -90,7 +90,6 @@ const Footer = () => {
           <p><i class="fas fa-phone me-3 text-secondary"></i> +998 99 491 14 85</p>
         </div>
       </div>
-  
     </div>
   </section>
   <div class="text-center p-4" >
