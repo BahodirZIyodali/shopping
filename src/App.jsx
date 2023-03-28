@@ -6,6 +6,7 @@ import { Route, Routes } from "react-router-dom";
 import Products from "./components/Products";
 import Product from './components/Product';
 const App = () => {
+  
   return (
     <>
       <Navbar />
